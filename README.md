@@ -1,5 +1,12 @@
 # multiple-personality-telegram-workforce
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/multiple-personality-telegram-workforce/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/multiple-personality-telegram-workforce/actions)
+![License](https://img.shields.io/github/license/yksanjo/multiple-personality-telegram-workforce)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/multiple-personality-telegram-workforce)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/multiple-personality-telegram-workforce)
+
 ## Detailed Description
 
 multiple-personality-telegram-workforce is maintained as an industry-grade software project with production-ready engineering practices.  
